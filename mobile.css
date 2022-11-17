@@ -1,0 +1,114 @@
+@media screen  and (max-width:1037px) {
+/* first section starts here */
+    .nav-desktop{
+        display: none;
+    }
+
+    .navmobile{
+        display: flex;
+    }
+
+    .first-section{
+        padding: 0;
+        background: var(--black);
+    }
+
+    .first-left{
+        display: none;
+    }
+
+    .first-right{
+        width: 100%;
+    }
+
+    .firstright-content{
+        display: block;
+    }
+
+    .firstright-content span{
+        margin: 130px 0 40px 0;
+    }
+
+    .firstright-content p{
+        margin: 40px 0 55px 0;
+        font-size: 20px;
+    }
+
+    .hambuger-content{
+        display: block;
+    }
+/*first section ends here  */
+
+
+/*section 1 starts here  */
+.section-holder{
+    display: block;
+    padding-left: 0;
+}
+
+.section-left{
+    width: 100%;
+    text-align: center;
+    padding-left: 3px;
+    padding-right: 3px;
+}
+
+.section-left h1{
+    font-size: 40px;   
+}
+
+.section-left span{
+    justify-content: center;
+    margin-bottom: 40px;
+}
+
+.section-right{
+    width: 100%;
+    display: block;
+}
+
+.text-holder{
+    width: 100%;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+/*section 1 ends here  */
+
+
+/*section 2 ends here  */
+
+.section2-holder{
+    padding-left: 0;
+}
+
+.section2A{
+    display: block;
+    text-align: center;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.S2Aleft{
+    margin-bottom: 30px;
+    width: 100%;
+}
+
+.S2Aright{
+    width: 100%;
+    display: block;
+    text-align: center !important;
+    
+}
+
+.cta-input-holder input{
+    margin-bottom: 15px;
+    display:inline-block
+}
+
+.S2Aright button{
+    width: 190px;
+    display: inline-block;
+    margin-left: 0 !important;
+}
+/*section 2 ends here  */
+}

@@ -1,0 +1,15 @@
+:root {
+    --background: rgba(243, 238, 232, 1);
+    --main: #A06056;
+    --text: rgba(112, 100, 88, 0.9);
+    --darktext: rgba(112, 100, 88, 1);
+    --black: #121212;
+    --darkblack: #534B42;
+    --white:#FFFFFF;
+    --ctacolor: rgba(243, 238, 232, 0.3);
+    --backdrop:rgba(119, 119, 119, 0.100);
+    --mobilebackground: rgba(112, 100, 88, 0.2);
+    --hamb-menu: rgba(217, 217, 217, 1);
+
+
+}
